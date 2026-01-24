@@ -1,0 +1,14 @@
+{
+  "rishabh@gmail.com": {
+    "password": "scrypt:32768:8:1$LZXQSHKImtMxd0gW$6ec78a81c61709dc5866ac36e5d78420038fb734c97fd95c988360f0f329939ffea24595c4f4024e97a1dc09e3d49cd71ef557a85618c091d520d6dce786f677",
+    "full_name": "Rishabh",
+    "email": "rishabh@gmail.com",
+    "role": "admin"
+  },
+  "nitish@gmail.com": {
+    "password": "scrypt:32768:8:1$2QOjJqWNYriVWZmC$0562b996dfcf0a76a04a227898c1120d7f6888d9e9cfc9e62fcd78d187d944c4dafd55c1aa42ef84c7f6fd77cdeb0de49c8c5196bb450b49ffdb89c668eee7fc",
+    "full_name": "Nitish Gupta",
+    "email": "nitish@gmail.com",
+    "role": "admin"
+  }
+}
